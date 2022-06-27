@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nilia2020
 - 👀 I’m interested in development and programming
-- 🌱 I’m currently learning webpack
+- 🌱 I’m currently learning react, javascript, tailwind and vite
 - 💞️ I’m looking to collaborate on web developments
 - 📫 How to reach me : e-mail: jorge.niglia@gmail.com
 
